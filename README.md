@@ -1,2 +1,4 @@
 # hazelcast-jet-hashtags
-Hashtags simple parse and analize with hazelcast-jet
+Simple parse and analize hashtags from source with hazelcast-jet.
+
+
